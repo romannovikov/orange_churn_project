@@ -1,5 +1,32 @@
 # Прогнозирование оттока клиентов телеком-оператора
 
+## Используемый стэк технологий
+
+* Язык программирования и среды разработки:
+    - Python >= 3.6
+    - Jupyter
+    - PyCharm
+* Инструменты создания и тестирования веб-интерфейса:
+    - Flask
+    - Postman
+* Библиотеки для вычислений, обработки и статистического анализа данных: 
+    - numpy
+    - scipy
+    - statsmodels
+    - pandas
+    - category-encoders
+    - feature-engine
+* Фреймворки и библиотеки для машинного обучения: 
+    - scikit-learn
+    - xgboost
+    - lightgbm
+    - catboost
+* Библиотеки для создания визуализаций:
+    - matplotlib
+    - seaborn
+    - missingno
+    - scikit-plot
+
 ## Описание и этапы проекта
 
 В качестве финального проекта [специализации](https://www.coursera.org/specializations/machine-learning-data-analysis) 
@@ -39,33 +66,6 @@ python ocp/server.py
 ```
 Пример запроса к веб-интерфейсу и ответ от него, полученные с помощью Postman:
 ![png](results/163803.png)
-
-## Используемый стэк технологий
-
-* Язык программирования и среды разработки:
-    - Python >= 3.6
-    - Jupyter
-    - PyCharm
-* Инструменты создания и тестирования веб-интерфейса:
-    - Flask
-    - Postman
-* Библиотеки для вычислений, обработки и статистического анализа данных: 
-    - numpy
-    - scipy
-    - statsmodels
-    - pandas
-    - category-encoders
-    - feature-engine
-* Фреймворки и библиотеки для машинного обучения: 
-    - scikit-learn
-    - xgboost
-    - lightgbm
-    - catboost
-* Библиотеки для создания визуализаций:
-    - matplotlib
-    - seaborn
-    - missingno
-    - scikit-plot
 
 ## Структура проекта
 
